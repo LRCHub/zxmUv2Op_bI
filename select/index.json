@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢屑ケーキ",
+  "base_artist": "AZKi",
+  "createdAt": "2026-02-28T08:07:38.901957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢屑ケーキ",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_夢屑ケーキ_AZKi.txt"
+    }
+  ]
+}
